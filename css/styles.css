@@ -169,10 +169,12 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero.jpg);
+    url(../images/hero.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+
+  max-width: 1440px;
 }
 .hero-title {
   color: #ffffff;
