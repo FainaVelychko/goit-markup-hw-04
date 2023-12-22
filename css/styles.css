@@ -175,6 +175,7 @@ img {
   background-position: center;
 
   max-width: 1440px;
+  margin: 0 auto;
 }
 .hero-title {
   color: #ffffff;
